@@ -5,7 +5,7 @@
   Available dependencies
 - [Open Weather](https://openweathermap.org/)
 
-# - Instructiond to run the application :--
+# - Instructions to run the application :--
 
   Method 1 - You can directly click or copy and paste to web browser the link to run the application
   Link  -- https://rakeshkushwah0.github.io/WeatherApp/
