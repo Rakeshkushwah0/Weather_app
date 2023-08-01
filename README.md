@@ -8,7 +8,8 @@
 # - Instructions to run the application :--
 
   Method 1 - You can directly click or copy and paste to web browser the link to run the application
-  Link  -- https://rakeshkushwah0.github.io/WeatherApp/
+  AWS HOST LINK -- http://weatherapp-react.s3-website.eu-north-1.amazonaws.com/
+  GITHUB PAGES LINK  -- https://rakeshkushwah0.github.io/WeatherApp/
 
   Method 2 -- You can download the zip file of my git repository named weather_app and them unzip after the unzip the file on your local computer.
   go inside the project and right click to open with code with vscode. Download the Node modules using npm install. 
